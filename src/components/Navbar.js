@@ -30,6 +30,7 @@ function Navbar() {
                     <li className='p-4 transition-all duration-300 ease-in hover:border-b hover:border-orange-600 text-gray-500 hover:text-black'><a href='/'>Collections</a></li>
                     <li className='p-4 transition-all duration-300 ease-in hover:border-b hover:border-orange-600 text-gray-500 hover:text-black'><a href='/'>Men</a></li>
                     <li className='p-4 transition-all duration-300 ease-in hover:border-b hover:border-orange-600 text-gray-500 hover:text-black'><a href='/'>Women</a></li>
+                    <li className='p-4 transition-all duration-300 ease-in hover:border-b hover:border-orange-600 text-gray-500 hover:text-black'><a href='/'>Kids</a></li>
                     <li className='p-4 transition-all duration-300 ease-in hover:border-b hover:border-orange-600 text-gray-500 hover:text-black'><a href='/'>About</a></li>
                     <li className='p-4 transition-all duration-300 ease-in hover:border-b hover:border-orange-600 text-gray-500 hover:text-black'><a href='/'>Contact</a></li>
                 </ul>
